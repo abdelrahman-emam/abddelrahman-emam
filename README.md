@@ -17,7 +17,7 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
 - :chart_with_upwards_trend: The better visualization the better insights it delivers. That's why I am improving my skills in **`Power Bi`** on **[DataCamp](www.datacamp.com) Platform**.
 - :books: For over **`2 years`** I've never stopped learning more about AI, that's why I continuously enchance my skills while learning/applying about:
   - AI Powerful Libraries (**`Numpy`**, **`Pandas`**, **`Matplotlib`**, **`Seaborn`**, **`Scikit-learn`**)
-  - **Machine Learning (Theory/Practice):** (**`Regression`**, **`Classification`**, **`Clustesring`**)
+  - **Machine Learning (Theory/Practice):** (**`Regression`**, **`Classification`**, **`Clustering`**)
   - **Deep Learning (Theory/Practice):**
     - **Artificial Neural Networks** theory and recent practices using **`Keras`** & **`Tensorflow`**.
     - **Computer Vision** (Classic / state-of-the-art) approaches using [**`OpenCV`**, **`PIL`**, **`Convolutional Neural Networks (CNNs)`**]
@@ -29,7 +29,7 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
 #### `Technical` courses I took if interested to talk about: :octocat:
 
 1. **[Data Analysis Nanodegree - egFWD scholarship](https://egfwd.com/specializtion/data-analysis-advanced/)** (**Udacity**)
-2. **[Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)**. (**Udacity**)
+2. **[Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)** (**Udacity**)
 3. **[Deep Learning Specialization - Deeplearning.ai](https://www.coursera.org/specializations/deep-learning)** (**Coursera**)<br>
   3.1 Neural Networks and Deep Learning.<br>
   3.2 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.<br>
