@@ -6,7 +6,7 @@
 
 I am a Data Analyst and AI both **`Machine learning`** & **`Deep learning`** passionate Engineer. I love programming, and I've been studying and doing projects on these topics for **`over 2 years`**.
 
-As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike what most people see, :red_circle: **data is not a bunch of numbers** :red_circle:, au contraire. **`Data reveals the truth that can't be hidden`**. Using **`Python`** :snake: & **`SQL**` I can drill into the data to extract every hidden truth.
+As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike what most people see, :red_circle: **data is not a bunch of numbers** :red_circle:, au contraire. **`Data reveals the truth that can't be hidden`**. Using **`Python`** :snake: & **`SQL`** I can drill into the data to extract every hidden truth.
 
 #### Talking about Personal Stuffs:
 
