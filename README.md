@@ -12,7 +12,7 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
 
 <img align="right" width="300" height="250" src="img-freepik.png">
 
-- :office: **I'm looking for a job opportunity**. (**FyI: I am a fresh graduate**)
+- :office: **I'm `open to work`**. (**FyI: I am a fresh graduate**)
 - :art: Currently learning **more and more** about **`Data Structures & Algorithms`** on **[Leetcode](www.leetcode.com)**. That's what I call **`Programming Art`**.
 - :chart_with_upwards_trend: The better visualization the better insights it delivers. That's why I am improving my skills in **`Power Bi`** on **[DataCamp](www.datacamp.com) Platform**.
 - :books: For over **`2 years`** I've never stopped learning more about AI, that's why I continuously enchance my skills while learning/applying about:
