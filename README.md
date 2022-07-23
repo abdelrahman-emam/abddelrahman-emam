@@ -9,6 +9,9 @@ I am a Data Analyst and AI both **`Machine learning`** & **`Deep learning`** pas
 As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike what most people see, :red_circle: **data is not a bunch of numbers** :red_circle:, au contraire. **`Data reveals the truth that can't be hidden`**. Using **`Python`** :snake: & **`SQL**` I can drill into the data to extract every hidden truth.
 
 #### Talking about Personal Stuffs:
+
+<img align="right" width="300" height="270" src="https://img.freepik.com/premium-vector/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.jpg?w=2000">
+
 - :office: **I'm looking for a job opportunity**. (**FyI: I am a fresh graduate**)
 - :art: Currently learning **more and more** about **`Data Structures & Algorithms`** on **[Leetcode](www.leetcode.com)**. That's what I call **`Programming Art`**.
 - :chart_with_upwards_trend: The better visualization the better insights it delivers. That's why I am improving my skills in **`Power Bi`** on **[DataCamp](www.datacamp.com) Platform**.
