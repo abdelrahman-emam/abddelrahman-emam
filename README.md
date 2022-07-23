@@ -10,7 +10,7 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
 
 #### Talking about Personal Stuffs:
 
-<img align="right" width="300" height="270" src="https://img.freepik.com/premium-vector/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.jpg?w=2000">
+<img align="right" width="300" height="250" src="img-freepik.png">
 
 - :office: **I'm looking for a job opportunity**. (**FyI: I am a fresh graduate**)
 - :art: Currently learning **more and more** about **`Data Structures & Algorithms`** on **[Leetcode](www.leetcode.com)**. That's what I call **`Programming Art`**.
