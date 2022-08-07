@@ -14,7 +14,7 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
 
 - :office: **I'm `open to work`**. (**FyI: I am a fresh graduate**)
 - :art: Currently learning **more and more** about **`Data Structures & Algorithms`** on **[Leetcode](www.leetcode.com)**. I also learn more about **`Time-Series Analysis`** from different sources.
-- :chart_with_upwards_trend: The better visualization the better insights it delivers. That's why I am improving my skills in **`Power Bi`** on **[DataCamp](www.datacamp.com) Platform**.
+- :chart_with_upwards_trend: The better visualization the better insights it delivers. That's why I continuously use and improve my knowledge in **Microsoft Power BI**.
 - :books: For over **`2 years`** I've never stopped learning more about AI, that's why I continuously enchance my skills while learning/applying about:
   - AI Powerful Libraries (**`Numpy`**, **`Pandas`**, **`Matplotlib`**, **`Seaborn`**, **`Scikit-learn`**)
   - **Machine Learning (Theory/Practice):** (**`Regression`**, **`Classification`**, **`Clustering`**)
@@ -38,4 +38,5 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
   3.5 Sequence Models.<br>
 4. **[Python for Statistical Analysis](https://www.udemy.com/course/python-for-statistical-analysis/)** (**Udemy**)
 5. **[The Complete Oracle SQL Certification Course](https://www.udemy.com/course/the-complete-oracle-sql-certification-course/)** (**Udemy**)
-6. More to come... 
+6. **[The Power BI Fundamentals Track](https://app.datacamp.com/learn/skill-tracks/power-bi-fundamentals?version=1)** (**DataCamp**)
+7. More to come... 
