@@ -12,8 +12,7 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
 
 <img align="right" width="300" height="250" src="img-freepik.png">
 
-- :office: **I'm `open to work`**. (**FyI: I am a fresh graduate**)
-- :art: Currently learning **more and more** about **`Data Structures & Algorithms`** on **[Leetcode](www.leetcode.com)**. I also learn more about **`Time-Series Analysis`** from different sources.
+- :office: **I'm `open to work`**.
 - :chart_with_upwards_trend: The better visualization the better insights it delivers. That's why I continuously use and improve my knowledge in **Microsoft Power BI**.
 - :books: For over **`2 years`** I've never stopped learning more about AI, that's why I continuously enchance my skills while learning/applying about:
   - AI Powerful Libraries (**`Numpy`**, **`Pandas`**, **`Matplotlib`**, **`Seaborn`**, **`Scikit-learn`**)
