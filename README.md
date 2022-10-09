@@ -20,10 +20,10 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
   - **Deep Learning (Theory/Practice):**
     - **Artificial Neural Networks** theory and recent practices using **`Keras`** & **`Tensorflow`**.
     - **Computer Vision** (Classic / state-of-the-art) approaches using [**`OpenCV`**, **`PIL`**, **`Convolutional Neural Networks (CNNs)`**]
-    - **Natural Language Processing** using (**`Recurrent Neural Networks (RNNs)`**, **`Sequence Models`** basics, and looking forward to learning more about **`Sequence models`** and **`Transformers`**.
+    - **Natural Language Processing** using (**`Recurrent Neural Networks (RNNs)`**, **`Sequence Models`**, **`Sequence models`** and **`Transformers`**.
 - :speech_balloon: Ask me about anything, I am always happy to help.
 - :mailbox_with_mail: **To reach me**: abdelrahman-emam@outlook.com
-- :memo: **[Resume](https://drive.google.com/file/d/1fSfjmxRyHvuqbsYPJdyOI3bNXsZc3QF_/view?usp=sharing).**
+- :memo: **[Resume](https://drive.google.com/file/d/1g7Ykvagu_cjA93fEdack0Hi_bNoV28of/view?usp=sharing).**
 
 #### `Technical` courses I took if interested to talk about: :octocat:
 
