@@ -23,7 +23,7 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
     - **Natural Language Processing** using [**`Recurrent Neural Networks (RNNs)`**, **`Sequence Models`**, **`Sequence models`** and **`Transformers`**].
 - :speech_balloon: Ask me about anything, I am always happy to help.
 - :mailbox_with_mail: **To reach me**: abdelrahman-emam@outlook.com
-- :memo: **[Resume](https://drive.google.com/file/d/1g7Ykvagu_cjA93fEdack0Hi_bNoV28of/view?usp=sharing).**
+- :memo: **[Resume](https://drive.google.com/file/d/1WmsctBrJG2mjIKOL8ioxn0u02gK84-yz/view?usp=sharing).**
 
 #### `Technical` courses I took if interested to talk about: :octocat:
 
