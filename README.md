@@ -6,7 +6,7 @@
 
 I am a Data Analyst and AI both **`Machine learning`** & **`Deep learning`** passionate Engineer. I love programming, and I've been studying and doing projects on these topics for **`over 2 years`**.
 
-As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike what most people see, :red_circle: **data is not a bunch of numbers** :red_circle:, au contraire. **`Data reveals the truth that can't be hidden`**. Using **`Python`** :snake: & **`SQL`** I can drill into the data to extract every hidden truth.
+As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike what most people see, :red_circle: **data is not a bunch of numbers** :red_circle:, au contraire. **`Data reveals the truth that can't be hidden`**. Using **`Python`**, **`C++`** & **`SQL`** I can drill into the data to extract every hidden truth.
 
 #### Talking about Personal Stuffs:
 
@@ -19,8 +19,8 @@ As a Data analyst, I enjoy visualizing all patterns & trends in data, unlike wha
   - **Machine Learning (Theory/Practice):** (**`Regression`**, **`Classification`**, **`Clustering`**)
   - **Deep Learning (Theory/Practice):**
     - **Artificial Neural Networks** theory and recent practices using **`Keras`** & **`Tensorflow`**.
-    - **Computer Vision** (Classic / state-of-the-art) approaches using [**`OpenCV`**, **`PIL`**, **`Convolutional Neural Networks (CNNs)`**]
-    - **Natural Language Processing** using (**`Recurrent Neural Networks (RNNs)`**, **`Sequence Models`**, **`Sequence models`** and **`Transformers`**.
+    - **Computer Vision** (Classic / SOTA) approaches using [**`OpenCV`**, **`PIL`**, **`Convolutional Neural Networks (CNNs)`**]
+    - **Natural Language Processing** using [**`Recurrent Neural Networks (RNNs)`**, **`Sequence Models`**, **`Sequence models`** and **`Transformers`**].
 - :speech_balloon: Ask me about anything, I am always happy to help.
 - :mailbox_with_mail: **To reach me**: abdelrahman-emam@outlook.com
 - :memo: **[Resume](https://drive.google.com/file/d/1g7Ykvagu_cjA93fEdack0Hi_bNoV28of/view?usp=sharing).**
